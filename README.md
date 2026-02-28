@@ -81,6 +81,4 @@ By combining AI with awareness and engagement, the system promotes smarter waste
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-repo/trash-talk-ai.git
-cd trash-talk-ai
-npm install
+https://github.com/fathimaminha-git/tink-her-hack-temp
