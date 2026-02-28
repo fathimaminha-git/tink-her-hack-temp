@@ -17,6 +17,27 @@ Kidoos
 https://trash-talk-ai.streamlit.app/
 
 ---
+## Project Documentation
+
+### For Software:
+
+#### Screenshots (Add at least 3)
+
+<img width="1892" height="882" alt="1st page" src="https://github.com/user-attachments/assets/1ad70ed7-ab07-4e9f-9869-65c68b7510d7" />
+
+The center displays your waste analysis, while the left panel tracks your recycling progress and impact.
+<img width="1905" height="693" alt="page 2" src="https://github.com/user-attachments/assets/2bfbb717-26a5-43a6-af87-b39b34551dc2" />
+This asks the user to upload the image!!!to analyse
+<img width="1891" height="798" alt="page 3" src="https://github.com/user-attachments/assets/560783e4-9173-4486-adf0-8f79eacecda9" />
+Get roasted with smart waste insights in the center, while your sustainability progress grows on the left.
+
+#### Diagrams
+![WhatsApp Image 2026-02-28 at 10 31 19 AM](https://github.com/user-attachments/assets/4c06bd47-91ce-4f6b-9669-d74a95fc2fa4)
+
+“The flowchart illustrates the workflow of TrashTalk AI, starting from image upload, followed by AI-based waste detection and classification. Based on the identified waste type and recyclability, the system generates environmental impact details, a roast message, and updates the user’s eco progress.”
+
+---
+
 
 ## 📌 Project Description
 
