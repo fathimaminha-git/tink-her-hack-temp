@@ -1,12 +1,12 @@
 import streamlit as st
 import google.generativeai as genai
 from PIL import Image
+import os
 
 # --- AI SETUP ---
 # Securely handle the API Key
 # Replace 'YOUR_GEMINI_API_KEY' with your actual key from Google AI Studio
-API_KEY = "AIzaSyBHpDa19rZ7Dx4cRFs9ot8JNRpsKnhU7YA"
-genai.configure(api_key="AIzaSyBHpDa19rZ7Dx4cRFs9ot8JNRpsKnhU7YA")
+genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 model = genai.GenerativeModel('gemini-2.5-flash')
 
 # Initialize Eco-Points in the session so they don't reset on refresh
